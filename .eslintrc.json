@@ -262,7 +262,7 @@
   },
   "overrides": [
     {
-      "files": ["1-let.js"],
+      "files": ["**[sS]pec.js"],
       "rules": {
         "prefer-const": "off"
       }
